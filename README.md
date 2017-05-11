@@ -45,3 +45,6 @@ ASCII diagram editor. Lets you export to text, obviously, but also keep the vect
 
 A better Email client for Mac (better than the built-in one, at least). Unified inboxes, snoozing, good keyboard bindind.
 
+## [Commander One](https://itunes.apple.com/us/app/commander-one-dual-pane-file-manager/id1035236694?mt=12) $
+
+Like Total Commander for Mac, if you're into that kind of stuff.
