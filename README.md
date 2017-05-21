@@ -48,3 +48,8 @@ A better Email client for Mac (better than the built-in one, at least). Unified 
 ## [Commander One](https://itunes.apple.com/us/app/commander-one-dual-pane-file-manager/id1035236694?mt=12) $
 
 Like Total Commander for Mac, if you're into that kind of stuff.
+
+## [Sceptacle] (https://www.spectacleapp.com/)
+
+A small and free application enabling easy keyboard shortcuts for window location on your monitor(s), including fullscreen, right/left/center of screen, move to the next/previous monitor, etc. Quite similar to what you can easily do with the Windows key on Windows...
+
