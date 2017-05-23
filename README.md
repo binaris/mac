@@ -53,3 +53,11 @@ Like Total Commander for Mac, if you're into that kind of stuff.
 
 A small and free application enabling easy keyboard shortcuts for window location on your monitor(s), including fullscreen, right/left/center of screen, move to the next/previous monitor, etc. Quite similar to what you can easily do with the Windows key on Windows...
 
+# Handy Vim Plugins
+
+- `hashivim/vim-terraform` for auto-formatting your Terraform files, and other stuff.
+    (e.g. to auto-format upon saving a `.tf` file, add this to your `.vimrc`:
+
+      autocmd bufwritepost *.tf :TerraformFmt
+
+
