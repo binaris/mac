@@ -49,7 +49,7 @@ A better Email client for Mac (better than the built-in one, at least). Unified 
 
 Like Total Commander for Mac, if you're into that kind of stuff.
 
-## [Sceptacle](https://www.spectacleapp.com/)
+## [Spectacle](https://www.spectacleapp.com/)
 
 A small and free application enabling easy keyboard shortcuts for window location on your monitor(s), including fullscreen, right/left/center of screen, move to the next/previous monitor, etc. Quite similar to what you can easily do with the Windows key on Windows...
 
