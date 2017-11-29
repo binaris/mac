@@ -60,4 +60,9 @@ A small and free application enabling easy keyboard shortcuts for window locatio
 
       autocmd bufwritepost *.tf :TerraformFmt
 
+# CLI Tools
+* [`ag`](https://github.com/ggreer/the_silver_searcher): Super-fast recursive search in code files.
+* [`tree`](http://brewformulas.org/Tree): Recursive directory view.
+* [`jq`](https://stedolan.github.io/jq/): Parse, filter, query and prettify JSON output.
+* [`fzf`](https://github.com/junegunn/fzf): Fast fuzzy find in filenames (and more).
 
