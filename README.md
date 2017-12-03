@@ -66,3 +66,4 @@ A small and free application enabling easy keyboard shortcuts for window locatio
 * [`jq`](https://stedolan.github.io/jq/): Parse, filter, query and prettify JSON output.
 * [`fzf`](https://github.com/junegunn/fzf): Fast fuzzy find in filenames (and more).
 * [`ranger`](https://github.com/ranger/ranger): Quick file naviagion and preview
+* [`saws`](https://github.com/donnemartin/saws) AWS CLI tool with useful autocomplete
